@@ -1,0 +1,21 @@
+.myContainer{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.todo{
+    border-radius: 7px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 400px;
+    background-color: rgb(95, 158, 160);
+    justify-content: center;
+    box-shadow: 2px 2px 0 black;
+    padding: 10px 5px;
+}
+.line{
+    width: 100%;
+    border: 1px solid rgb(45, 73, 74);
+    margin: 10px 0;
+}
